@@ -1,1 +1,2 @@
 # Making Visual Course - Sketches
+<img src="https://github.com/OYaipen/sketches-canvas/blob/eab997459d517edafaa9ebf8fcfbd992046a5cbe/images/2021.09.08-00.50.01.gif?raw=true" alt="2021.09.08-00.50.01.gif">
